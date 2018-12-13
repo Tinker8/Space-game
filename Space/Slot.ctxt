@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=n\ wr
+comment0.target=Slot(int,\ World)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Slot\r\n
+comment1.params=n
+comment1.target=Slot(int)
+comment2.params=
+comment2.target=int\ getNo()
+comment3.params=
+comment3.target=World\ getWorld()
+numComments=4

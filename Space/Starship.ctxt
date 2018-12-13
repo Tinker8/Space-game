@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nam\ des\ up\ i\ p\ a\ c\ go\ diam\ ga\ s\ dark
+comment0.target=Starship(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getLvl()
+comment2.params=
+comment2.target=void\ incLvl()
+comment3.params=l
+comment3.target=void\ setLvl(int)
+comment4.params=
+comment4.target=double\ getMag()
+comment5.params=
+comment5.target=int\ getPowerReq()
+numComments=6

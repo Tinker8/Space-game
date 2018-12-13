@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Universe()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Universe\r\n
+comment1.params=
+comment1.target=void\ makeSlots()
+comment2.params=nam
+comment2.target=World\ getWorld(java.lang.String)
+comment3.params=n
+comment3.target=Slot\ getSlot(int)
+numComments=4

@@ -1,0 +1,14 @@
+PlanetNo: 0
+Type: null
+Name: 
+Value: 0
+Metal: 0
+Crystal: 0
+Fuel: 0
+
+ShipsInOrbit: 0
+Name, Type, Cargo, lvl, exp
+
+Buildings: 0
+Name,lvl: 0
+NameUpgradeTime: 00:000

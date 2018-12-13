@@ -1,0 +1,13 @@
+Warlock8
+iron: 1568 platinum: 0 adamantium: 0 copper: 46 gold: 0 diamond: 0 oil: 162 gas: 66 darkmatter: 0 
+IronMine 8 000000
+CopperMine 6 17 59 19
+OilMine 2 000000
+Factory 1 000000
+PowerPlant 3 000000
+iron: 544 platinum: 0 adamantium: 0 copper: 186 gold: 0 diamond: 0 oil: 162 gas: 66 darkmatter: 0 
+IronMine 3 000000
+CopperMine 3 000000
+OilMine 1 000000
+Factory 1 000000
+PowerPlant 1 000000

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=Timer(int)
+comment1.params=
+comment1.target=Timer()
+comment2.params=
+comment2.target=int\ getSec()
+comment3.params=
+comment3.target=int\ getMin()
+comment4.params=
+comment4.target=int\ getHour()
+comment5.params=
+comment5.target=int\ getDay()
+comment6.params=
+comment6.target=int\ getCount()
+numComments=7
